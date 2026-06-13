@@ -15,11 +15,13 @@ The repository is organized by domain:
 > **Note:** This repository focuses on guided projects, lecture code-alongs, and foundational lab exercises. For my independent, end-to-end projects and original implementations, please visit my [applied-ai](https://github.com/pranayprasad7001/applied-ai) repository.
 
 ## Technical Stack
+* **Programming & Experimentation**: `Python`, `Jupyter Notebook`, `Git`, `GitHub`
 * **Data Analysis & Preprocessing**: `Pandas`, `NumPy`, `SciPy`
-* **Traditional Machine Learning**: `Scikit-learn`, `XGBoost`
-* **Deep Learning**: `PyTorch`, `TensorFlow`, `Keras`
+* **Traditional & Ensemble Machine Learning**: `Scikit-learn`, `XGBoost`, `CatBoost`
+* **Deep Learning & LLM Fine-Tuning**: `PyTorch`, `TensorFlow/Keras`, `Hugging Face (Transformers, PEFT, Datasets)`, `TRL (SFTTrainer)`, `bitsandbytes`, `accelerate`
+* **Reinforcement Learning Environments**: `Gymnasium (OpenAI Gym)`
 * **Visualization**: `Matplotlib`, `Seaborn`
-* **NLP & Specialized**: `NLTK`, `MiniSom`
+* **NLP & Specialized Libraries**: `NLTK`, `MiniSom`
 
 ## License
 This repository is for educational and portfolio purposes.
