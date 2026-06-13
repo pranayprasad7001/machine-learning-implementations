@@ -12,7 +12,7 @@ The repository is organized by domain:
 * **Deep Learning**: Neural network architectures, ANN implementation, and training pipelines.
 * **Natural Language Processing**: Text preprocessing, vectorization, and Bag of Words (BOW) implementations.
 
-> **Note:** This repository focuses on guided projects, lecture code-alongs, and foundational lab exercises. For my independent, end-to-end projects and original implementations, please visit my [applied-ai](https://github.com/pranayprasad7001/applied-ai) repository.
+> **Note:** This repository focuses on guided projects, lecture code-alongs, and foundational lab exercises. For my independent, end-to-end projects and original implementations, please visit my [applied-ml-projects](https://github.com/pranayprasad7001/applied-ml-projects.git) repository.
 
 ## Technical Stack
 * **Programming & Experimentation**: `Python`, `Jupyter Notebook`, `Git`, `GitHub`
