@@ -19,3 +19,7 @@ langchain_groq
 langchain_core
 torchvision
 transformers
+fastapi
+uvicorn
+langserve
+sse-starlette
