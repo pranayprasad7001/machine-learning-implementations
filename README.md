@@ -1,27 +1,50 @@
-# ML Model Implementations
+# Machine Learning Implementations
 
-A structured collection of machine learning implementations, documenting my progression through foundational algorithms, core model architectures, and deep learning workflows.
+A structured collection of machine learning implementations documenting my learning journey across classical machine learning, deep learning, and reinforcement learning through hands-on practice.
 
 ## About This Repository
-This repository serves as my workspace for practicing and mastering core machine learning concepts. It captures the essential implementations from my academic studies and technical training. 
 
-The repository is organized by domain:
-* **Supervised Learning**: Implementations of regression and classification algorithms for predictive modeling.
-* **Unsupervised Learning**: Clustering, dimensionality reduction, and association rule learning.
-* **Reinforcement Learning**: Agent-based learning, policy optimization, and environmental modeling.
-* **Deep Learning**: Neural network architectures, ANN implementation, and training pipelines.
-* **Natural Language Processing**: Text preprocessing, vectorization, and Bag of Words (BOW) implementations.
+This repository serves as my workspace for learning, implementing, and experimenting with core machine learning concepts. It contains guided implementations, academic exercises, and practical notebooks designed to strengthen both theoretical understanding and implementation skills.
 
-> **Note:** This repository focuses on guided projects, lecture code-alongs, and foundational lab exercises. For my independent, end-to-end projects and original implementations, please visit my [applied-ml-projects](https://github.com/pranayprasad7001/applied-ml-projects.git) repository.
+The repository is organized into the following domains:
+
+- **Supervised Learning**: Regression and classification algorithms for predictive modeling.
+- **Unsupervised Learning**: Clustering, dimensionality reduction, and association rule learning.
+- **Deep Learning**: Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and other deep learning architectures.
+- **Reinforcement Learning**: Agent-based learning, value-based methods, policy optimization, and environment interaction.
+- **Natural Language Processing**: Text preprocessing, feature extraction, vectorization, and traditional NLP techniques.
+
+> **Note:** This repository focuses on learning-oriented implementations, guided exercises, and foundational model development. For complete, end-to-end machine learning applications, visit my [applied-ml-projects](https://github.com/pranayprasad7001/applied-ml-projects). Generative AI implementations and projects are maintained in separate dedicated repositories.
 
 ## Technical Stack
-* **Programming & Experimentation**: `Python`, `Jupyter Notebook`, `Git`, `GitHub`
-* **Data Analysis & Preprocessing**: `Pandas`, `NumPy`, `SciPy`
-* **Traditional & Ensemble Machine Learning**: `Scikit-learn`, `XGBoost`, `CatBoost`
-* **Deep Learning & LLM Fine-Tuning**: `PyTorch`, `TensorFlow/Keras`, `Hugging Face (Transformers, PEFT, Datasets)`, `TRL (SFTTrainer)`, `bitsandbytes`, `accelerate`
-* **Reinforcement Learning Environments**: `Gymnasium (OpenAI Gym)`
-* **Visualization**: `Matplotlib`, `Seaborn`
-* **NLP & Specialized Libraries**: `NLTK`, `MiniSom`
 
-## License
-This repository is for educational and portfolio purposes.
+### Programming & Development
+- Python
+- Jupyter Notebook
+- Git
+- GitHub
+
+### Data Analysis & Preprocessing
+- Pandas
+- NumPy
+- SciPy
+
+### Machine Learning
+- Scikit-learn
+- XGBoost
+- CatBoost
+
+### Deep Learning
+- TensorFlow / Keras
+- PyTorch
+
+### Reinforcement Learning
+- Gymnasium (OpenAI Gym)
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+
+### Natural Language Processing
+- NLTK
+- MiniSom
